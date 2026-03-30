@@ -1,4 +1,4 @@
-# Pipeline de Dados com Apache HOP
+# Pipeline de Dados com Apache HOP e Busca Textual no PostgreSQL
 
 Este projeto implementa pipelines de dados utilizando o Apache HOP para processar dados de currículos Lattes (plataforma brasileira de currículos de pesquisadores) e realizar buscas textuais em um banco de dados PostgreSQL.
 
